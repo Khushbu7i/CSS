@@ -1,0 +1,33 @@
+
+    
+    body{
+        background-color:#ff7f00;
+    }
+    .p{
+        display:block;
+        text-align:split right;
+        font-size: 25px;
+        color:#80007e;
+        height: 100%;
+        width:70%;
+        padding-left:25%;
+        
+     }
+      
+
+    span.a{
+        font-size: medium;
+        display:block;
+        background-color:white;
+        height:40%;
+        width:17%;
+        text-align:left;
+        color:#80007e;
+        border-right: 20px solid black;
+        margin-top: 10px;
+    } 
+    
+    #date{
+        font-style:italic;
+     }  
+    
